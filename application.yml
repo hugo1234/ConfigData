@@ -6,25 +6,24 @@ eureka:
 ---
 spring:
   profiles: subject
-words: subject
+words: Yo,Tu,El,Ella,Eso
 
 ---
 spring:
   profiles: verb
-words: verb
+words: correr,sabia,tenia,sierra,compro
 
 ---
 spring:
   profiles: article
-words: article
+words: un,la
 
 ---
 spring:
   profiles: adjective
-words: adjective
+words: razonable,agujereado,suspicaz,ordinario,improbable
 
 ---
 spring:
   profiles: noun
-words: noun
-
+words: bote,libro,votar,asiento,mochila,dividir,la marmota

@@ -6,25 +6,25 @@ eureka:
 ---
 spring:
   profiles: subject
-words: I,You,He,She,It
+words: subject
 
 ---
 spring:
   profiles: verb
-words: ran,knew,had,saw,bought
+words: verb
 
 ---
 spring:
   profiles: article
-words: a,the
+words: article
 
 ---
 spring:
   profiles: adjective
-words: reasonable,leaky,suspicious,ordinary,unlikely
+words: adjective
 
 ---
 spring:
   profiles: noun
-words: boat,book,vote,seat,backpack,partition,groundhog
+words: noun
 

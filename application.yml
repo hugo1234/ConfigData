@@ -28,9 +28,9 @@ words: razonable,agujereado,suspicaz,ordinario,improbable
 ---
 spring:
   profiles: noun
-words: bote,libro,votar,asiento,mochila,dividir,la marmota
+words: bote-1,libro-1,votar-1,asiento-1,mochila-1,dividir-1,la marmota-1
 
 ---
 spring:
   profiles: cold-noun
-words: icicle,refrigerator,blizzard,snowball
+words: bote-2,libro-2,votar-2,asiento-2,mochila-2,dividir-2,la marmota-2

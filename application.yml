@@ -1,36 +1,36 @@
-#---
+---
 eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
       
       #defaultZone: http://localhost:8010/eureka/,http://localhost:8011/eureka/,http://localhost:8012/eureka/,http://localhost:8013/eureka/
-#---
-#spring:
-#  profiles: subject
-#words: Yo,Tu,El,Ella,Eso
+---
+spring:
+  profiles: subject
+words: Yo,Tu,El,Ella,Eso
 
-#---
-#spring:
-#  profiles: verb
-#words: correr,sabia,tenia,sierra,compro
+---
+spring:
+  profiles: verb
+words: correr,sabia,tenia,sierra,compro
 
-#---
-#spring:
-#  profiles: article
-#words: un,la
+---
+spring:
+  profiles: article
+words: un,la
 
-#---
-#spring:
-#  profiles: adjective
-#words: razonable,agujereado,suspicaz,ordinario,improbable
+---
+spring:
+  profiles: adjective
+words: razonable,agujereado,suspicaz,ordinario,improbable
 
-#---
-#spring:
-#  profiles: noun
-#words: bote-1,libro-1,votar-1,asiento-1,mochila-1,dividir-1,la marmota-1
+---
+spring:
+  profiles: noun
+words: bote-1,libro-1,votar-1,asiento-1,mochila-1,dividir-1,la marmota-1
 
-#---
-#spring:
-#  profiles: cold-noun
-#words: bote-2,libro-2,votar-2,asiento-2,mochila-2,dividir-2,la marmota-2
+---
+spring:
+  profiles: cold-noun
+words: bote-2,libro-2,votar-2,asiento-2,mochila-2,dividir-2,la marmota-2
